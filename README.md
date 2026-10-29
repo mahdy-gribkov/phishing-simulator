@@ -1,5 +1,7 @@
 # Phishing Email Simulator
 
+Built by **Mahdy Lorens Gribkov** (מהדי לורנס גריבקוב) | [mahdygribkov.com](https://mahdygribkov.com) | [SporeSec](https://sporesec.com/en/mahdy-lorens-gribkov)
+
 A Go web application that sends emails with spoofed sender headers via SMTP,
 demonstrating email spoofing techniques and why SPF/DKIM/DMARC exist.
 
